@@ -1,0 +1,6 @@
+{
+   "files.associations": {
+      "cmath": "cpp"
+   },
+   "idf.portWin": "COM3"
+}
