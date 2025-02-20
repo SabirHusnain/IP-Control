@@ -1,4 +1,5 @@
-.vscode/
+**/slprj/
+**/.vscode/
 Documentation/*.docx
 Documentation/Application for Budget for Cart & Pendulum Apparatus.pdf
 Documentation/Application for Issueing Cart & Pendulum Apparatus.pdf
